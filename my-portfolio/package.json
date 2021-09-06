@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "start": "vite"
+    "start": "index.html"
   },
   "devDependencies": {
     "vite": "^2.4.4"
